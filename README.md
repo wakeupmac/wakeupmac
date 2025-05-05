@@ -39,9 +39,9 @@ I'm learning in public. Sometimes messy, always real.
 
 Want to collaborate, build weird student projects, or just vibe?
 
-[![LinkedIn]   
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wakeupmkf/)  
-[![Spotify](https://img.shields.io/badge/Spotify-listening-green?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/user=22hmlenmo2dv6x2efb6ymkprq)  
+[![LinkedIn]   --
+[![Instagram] --
+[![Spotify]  --
 📧 Email: [wakeupmkf@gmail.com](mailto:wakeupmkf@gmail.com)
 
 ---
