@@ -39,7 +39,8 @@ I'm learning in public. Sometimes messy, always real.
 
 Want to collaborate, build weird student projects, or just vibe?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mmfarrelly)  
+[![LinkedIn] <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mmfarrelly" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mmfarrelly?trk=profile-badge">Maggie Farrelly</a></div>
+              
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wakeupmkf/)  
 [![Spotify](https://img.shields.io/badge/Spotify-listening-green?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/user=22hmlenmo2dv6x2efb6ymkprq)  
 📧 Email: [wakeupmkf@email.com](mailto:wakeupmkf@email.com)
