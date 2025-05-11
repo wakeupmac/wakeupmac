@@ -39,9 +39,6 @@ I'm learning in public. Sometimes messy, always real.
 
 Want to collaborate, build weird student projects, or just vibe?
 
-[![LinkedIn]   --
-[![Instagram] --
-[![Spotify]  --
 📧 Email: [wakeupmkf@gmail.com](mailto:wakeupmkf@gmail.com)
 
 ---
